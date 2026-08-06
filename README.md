@@ -9,6 +9,7 @@ Welcome to my daily hands-on Linux system engineering repository. This space doc
 | 01 | Linux File System & CLI Navigation | Day-01-Linux-Basics/ | `Completed` |
 | 02 | File Permissions & Redirection | Day-02-File-Permissions/ | `Completed` |
 | 03 | File Operations & Text Viewing | Day-03-File-Operations/ | `Completed` |
+| 04 | User & Group Administration | Day-04-User-Admin/ | `Completed` |
 
 ## Repository Structure
 ```text
@@ -20,6 +21,9 @@ cybersecurity-labs/
 ├── Day-02-File-Permissions/
 │   ├── README.md
 │   └── Day-02-File-Permissions.md
-└── Day-03-File-Operations/
+├── Day-03-File-Operations/
+│   ├── README.md
+│   └── Day-03-File-Operations.md
+└── Day-04-User-Admin/
     ├── README.md
-    └── Day-03-File-Operations.md
+    └── Day-04-User-Admin.md
