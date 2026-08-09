@@ -12,6 +12,7 @@ Welcome to my daily hands-on Linux system engineering repository. This space doc
 | 04 | User & Group Administration | Day-04-User-Admin/ | `Completed` |
 | 05 | Level 1 Boss Practical Challenge | Day-05-Boss-Challenge/ | `Completed` |
 | 06 | Storage, Disks & File System Management | Day-06-Storage-Management/ | `Completed` |
+| 07 | Mounting & Persistent Storage (/etc/fstab) | Day-07-Storage-Mounting/ | `Completed` |
 
 ## Repository Structure
 ```text
@@ -22,6 +23,7 @@ cybersecurity-labs/
 ├── Day-03-File-Operations/
 ├── Day-04-User-Admin/
 ├── Day-05-Boss-Challenge/
-└── Day-06-Storage-Management/
+├── Day-06-Storage-Management/
+└── Day-07-Storage-Mounting/
     ├── README.md
-    └── Day-06-Storage-Management.md
+    └── Day-07-Storage-Mounting.md
